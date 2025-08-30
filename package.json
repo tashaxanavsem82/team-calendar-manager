@@ -29,5 +29,11 @@
   "bugs": {
     "url": "https://github.com/yourusername/team-calendar-manager/issues"
   },
-  "homepage": "https://github.com/yourusername/team-calendar-manager#readme"
+  "homepage": "https://github.com/yourusername/team-calendar-manager#readme",
+  "contributors": [
+    {
+      "name": "Your Name",
+      "email": "your.email@example.com"
+    }
+  ]
 }
