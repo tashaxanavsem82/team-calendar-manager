@@ -1,7 +1,7 @@
 {
   "name": "team-calendar-manager",
   "version": "1.0.0",
-  "description": "A simple web application for teams to collaboratively manage their events and deadlines in a shared calendar.",
+  "description": "A collaborative web application enabling teams to manage their events and deadlines efficiently using a shared calendar.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
