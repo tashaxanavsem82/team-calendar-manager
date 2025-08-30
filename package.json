@@ -24,7 +24,7 @@
     "type": "git",
     "url": "git+https://github.com/yourusername/team-calendar-manager.git"
   },
-  "keywords": [],
+  "keywords": ["calendar", "management", "team", "collaboration"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yourusername/team-calendar-manager/issues"
